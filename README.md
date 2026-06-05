@@ -45,7 +45,7 @@ Busco minha primeira oportunidade na área de tecnologia, principalmente em:
 ## 🛠️ Tecnologias e ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,django,sql" />
 </p>
 
 ---

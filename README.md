@@ -64,7 +64,7 @@ Busco minha primeira oportunidade na área de tecnologia, principalmente em:
 ## 💼 Experiências profissionais
 
 ### 🏭 Caldema Equipamentos Industriais LTDA  
-**Ajudante Geral | 12/2021 - Atual**
+**Ajudante Geral | 12/2021 - 01/2026**
 
 - Leitura e interpretação de desenhos industriais
 - Auxílio na traçagem, montagem e conferência de medidas
